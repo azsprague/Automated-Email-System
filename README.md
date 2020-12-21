@@ -19,5 +19,8 @@ There are many things that could be improved with the system; chiefly, NOT stori
 memory (especially for a prolonged amount of time). Additional features could also be implemented
 such as multiple messages, quicker frequency, and better password protection.
 
+Several external libraries are used, chiefly JavaMail. To use this library, download it here:
+https://javaee.github.io/javamail/ and add it to the buildpath.
+
 NOTE: Messages can be sent as texts if you postfix a phone number with the proper provider email
 (i.e. @vtext.com, @txt.att.net, etc). This can be more useful than an email reminder.
