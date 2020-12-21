@@ -2,7 +2,8 @@
 
 This is a software system that allows the user to create an email reminder to be sent to any number
 of recipients at a given time of day. As long as the program is running, the reminders will continue
-to be sent; this allows for either a one-time or daily reminder.
+to be sent; this allows for either a one-time or daily reminder. The system can only be run from a
+Gmail account, no others will (currently) work.
 
 The system is run from the Runner class. From the command line, it can be executed with 0 or 1 
 parameters. Using no parameters will prompt the user to input desired information at the command
