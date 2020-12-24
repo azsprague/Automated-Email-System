@@ -1,4 +1,4 @@
-# Automated-Email-System
+# Automated Email System
 
 This is a software system that allows the user to create an email reminder to be sent to any number
 of recipients at a given time of day. As long as the program is running, the reminders will continue
