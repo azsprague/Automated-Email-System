@@ -32,7 +32,7 @@ public class Runner {
             fileMode(args[0]);
         }
         else {
-            System.err.println("Invocation: Email [scriptfile]");
+            System.err.println("Invocation: Runner [scriptfile]");
         }
         inScanner.close();
     }
